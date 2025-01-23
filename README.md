@@ -19,6 +19,8 @@ Solutions contain comments which explain my thinking as well as record what I le
 
 6. Subquery using aggregate functions as a means to filter data
 
+7. Pending
+
 8. Recursive CTEs
 
 9. Multiple CTEs with aggregate functions
