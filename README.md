@@ -11,6 +11,10 @@ Solutions contain comments which explain my thinking as well as record what I le
 
 2. Decipher ASCII values using `CHR` and `STRING_AGG`
 
+3. Pending
+
+4. Pending
+
 5. Window functions and percentage changes using `LAG`
 
 6. Subquery using aggregate functions as a means to filter data
@@ -32,5 +36,9 @@ Solutions contain comments which explain my thinking as well as record what I le
 15. Finding the intersection of points and polygons using PostGIS data types and `ST_INTERSECTS`
 
 16. Joining tables on geographical conditions and calculating the time spent in different geographical locations using `LAG` and `EXTRACT`
+
+17. Pending
+
+18. Pending
 
 19. Aggregate functions and `CROSS JOIN`
