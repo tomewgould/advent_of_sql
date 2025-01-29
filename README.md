@@ -13,7 +13,7 @@ Solutions contain comments which explain my thinking as well as record what I le
 
 3. Parsing XML using `XMLEXISTS` and `XPATH`
 
-4. Pending
+4. Using `EXCEPT` and `INTERSECT` to manipulate the result sets of `SELECT` statements
 
 5. Window functions and percentage changes using `LAG`
 
