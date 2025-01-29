@@ -11,7 +11,7 @@ Solutions contain comments which explain my thinking as well as record what I le
 
 2. Decipher ASCII values using `CHR` and `STRING_AGG`
 
-3. Pending
+3. Parsing XML using `XMLEXISTS` and `XPATH`
 
 4. Pending
 
