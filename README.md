@@ -50,3 +50,5 @@ Solutions contain comments which explain my thinking as well as record what I le
 21. Using window function and `DATE_PART` to calculate quarterly growth rates. Also used `NULLS LAST` to improve readability of query results
 
 22. `ANY` operator for efficient filtering
+
+23. Finding missing values in a table with `GENERATE_SERIES` 
