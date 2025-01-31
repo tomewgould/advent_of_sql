@@ -53,5 +53,5 @@ Solutions contain comments which explain my thinking as well as record what I le
 22. `ANY` operator for efficient filtering
 
 23. Finding missing values in a table with `GENERATE_SERIES`
-
+   
 24. Simple window functions and `CASE` statements
