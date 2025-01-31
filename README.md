@@ -1,7 +1,8 @@
 # advent_of_sql
+
 This repository contains my solutions to the Christmas-themed SQL challenges provided by [Advent of SQL.](https://adventofsql.com/)
 
-I have completed these challenges using PostgreSQL to sharpen my skills and for a bit of fun! 
+I have completed these challenges using PostgreSQL to sharpen my skills and for a bit of fun!
 
 Solutions contain comments which explain my thinking as well as record what I learned completing each challenge.
 
@@ -51,4 +52,6 @@ Solutions contain comments which explain my thinking as well as record what I le
 
 22. `ANY` operator for efficient filtering
 
-23. Finding missing values in a table with `GENERATE_SERIES` 
+23. Finding missing values in a table with `GENERATE_SERIES`
+
+24. Simple window functions and `CASE` statements
