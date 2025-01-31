@@ -48,3 +48,5 @@ Solutions contain comments which explain my thinking as well as record what I le
 20. Parsing URL query parameters by combining `STRING_TO_ARRAY` and `UNNEST`
 
 21. Using window function and `DATE_PART` to calculate quarterly growth rates. Also used `NULLS LAST` to improve readability of query results
+
+22. `ANY` operator for efficient filtering
