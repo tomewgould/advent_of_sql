@@ -20,7 +20,7 @@ Solutions contain comments which explain my thinking as well as record what I le
 
 6. Subquery using aggregate functions as a means to filter data
 
-7. Pending
+7. Using `FIRST_VALUE` to efficiently sort data
 
 8. Recursive CTEs
 
@@ -53,5 +53,5 @@ Solutions contain comments which explain my thinking as well as record what I le
 22. `ANY` operator for efficient filtering
 
 23. Finding missing values in a table with `GENERATE_SERIES`
-   
+
 24. Simple window functions and `CASE` statements
