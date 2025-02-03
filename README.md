@@ -40,9 +40,9 @@ Solutions contain comments which explain my thinking as well as record what I le
 
 16. Joining tables on geographical conditions and calculating the time spent in different geographical locations using `LAG` and `EXTRACT`
 
-17. Pending
+17. Combining recursive CTEs with `INTERVAL` and `PG_TIMEZONE_NAMES` to find hour-long time intervals where multiple businesses could attend a meeting across different time zones
 
-18. Pending
+18. Recursive CTEs
 
 19. Aggregate functions and `CROSS JOIN`
 
